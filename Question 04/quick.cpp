@@ -54,7 +54,7 @@ int main()
 	int n;
   std::cout<<"Enter number of elements: ";
   std::cin>>n;
-        int a[n];
+     int*a{new int [n]};  
   std::cout<<"Enter the array elements:"<<std::endl;
         for(int i=0;i<n;i++)
        {
