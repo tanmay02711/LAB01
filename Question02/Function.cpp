@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cmath>
 
-//Display in the terminal the following function :f(x) = sin(x) + ln(x)//
+//Display in the terminal the following function :f(x) = sin(x) + ln(x) //
 void func()
  {
  	double func;
